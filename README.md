@@ -35,7 +35,7 @@ Este archivo contiene:
 Archivo de datos de prueba que incluye:
 - 👥 **Usuarios** de ejemplo
 - 🐕 **Productos** con diferentes categorías
-**Nota:** este archivo tiene datos ficticios de la página web oficial.
+> 💡 **Nota:** este archivo tiene datos ficticios de la página web oficial.
 
 ## 🚀 Cómo Usar Este Repositorio
 
@@ -48,11 +48,8 @@ Archivo de datos de prueba que incluye:
 
 Esta base de datos está diseñada para soportar las funcionalidades core de **HealthMood**:
 - 👤 Gestión de usuarios y perfiles
-- 🐾 Registro y seguimiento de mascotas
-- 📋 Historial médico veterinario
-- 📅 Sistema de citas y recordatorios
-- 📊 Reportes y analytics de salud
-
+- 🐾 Registro y seguimiento de compras.
+- 📝 Y otras funcionalidades.
 ---
 
 > 💡 **Nota:** Este repositorio representa la arquitectura de datos que da vida a HealthMood, asegurando un cuidado integral para nuestros compañeros peludos 🐾
