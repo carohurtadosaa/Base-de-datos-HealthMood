@@ -34,9 +34,8 @@ Este archivo contiene:
 
 Archivo de datos de prueba que incluye:
 - 👥 **Usuarios** de ejemplo
-- 🐕 **Mascotas** con diferentes perfiles
-- 📅 **Citas** y registros médicos
-- 🏥 **Veterinarios** y servicios
+- 🐕 **Productos** con diferentes categorías
+**Nota:** este archivo tiene datos ficticios de la página web oficial.
 
 ## 🚀 Cómo Usar Este Repositorio
 
